@@ -29,5 +29,10 @@ namespace MonolithProject1
 		{
 			return "this is useless";
 		}
+
+		public string Useless2()
+		{
+			return "this is also useless";
+		}
 	}
 }

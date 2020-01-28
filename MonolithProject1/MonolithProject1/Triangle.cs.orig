@@ -25,9 +25,12 @@ namespace MonolithProject1
 			return side1;
 		}
 
+<<<<<<< HEAD
+=======
 		public string Useless()
 		{
 			return "this is useless";
 		}
+>>>>>>> Another commit to remove
 	}
 }

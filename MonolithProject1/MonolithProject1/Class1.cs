@@ -8,5 +8,6 @@ namespace MonolithProject1
 {
     public class Class1
     {
+		string s = "hello1";
     }
 }
